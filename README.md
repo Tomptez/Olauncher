@@ -1,7 +1,12 @@
-![Olauncher](https://repository-images.githubusercontent.com/278638069/db0acb80-661b-11eb-803e-926cae5dccb4)
+# Fork of Olauncher with 10 launchers on the homescreen
+This is a fork of [Olauncher](https://github.com/tanujnotes/Olauncher) which I forked for personal use.
+
+It patched the launcher to now contain up to 10 apps on the homescreen.
+Feel free to use it but I won't keep updating it regularly.
 
 
-# Olauncher | Minimal AF
+
+## Olauncher | Minimal AF
 Olauncher is a minimal launcher app for Android. AF stands for Ad-Free. It can also update your wallpaper daily, if you want.
 
 ## Installation
